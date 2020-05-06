@@ -14,9 +14,11 @@ If you want to download and run the Graph Data Science library, please download 
 |GDS 1.0.x, 1.1.x 
 |Neo4j 3.5.9 - 3.5.17
 
-|GDS. 1.2.x
+|GDS. 1.2 (preview)
 |Neo4j 4.0
 |===
+
+note: pre-releases are not automatically made available in Neo4j desktop. They need to be installed manually.
 
 == Building the library
 
